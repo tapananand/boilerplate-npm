@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "description": "A sample npm package.json learning related repo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
