@@ -1,10 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "A sample npm package.json learning related repo",
-	"version": "2.10.2",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0",
-    "moment": "2.14.0"
+    "moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
